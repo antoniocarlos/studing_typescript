@@ -1,0 +1,1 @@
+Projeto criado como apoio de estudo de typeScript no bootcamp GoStack.  
